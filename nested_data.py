@@ -1,5 +1,4 @@
 # loop through the columns in the csv
-from io import UnsupportedOperation
 import psycopg2
 from psycopg2 import Error
 import json
