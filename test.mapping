@@ -1,0 +1,42 @@
+{
+    "resource_model_id": "a1c359c0-63ed-11ec-8044-a72ed671fd8f",
+    "resource_model_name": "Test",
+    "nodes": [
+        {
+            "arches_nodeid": "a1c35a33-63ed-11ec-8044-a72ed671fd8f",
+            "arches_node_name": "Administrative Subdivision Name",
+            "file_field_name": "Administrative Subdivision Name",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a1c35a57-63ed-11ec-8044-a72ed671fd8f",
+            "arches_node_name": "Administrative Subdivision Type",
+            "file_field_name": "Administrative Subdivision Type",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "e59cd612-63ed-11ec-8044-a72ed671fd8f",
+            "arches_node_name": "MAHSA_ID",
+            "file_field_name": "MAHSA_ID",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a1c359c4-63ed-11ec-8044-a72ed671fd8f",
+            "arches_node_name": "Name",
+            "file_field_name": "Name",
+            "data_type": "string",
+            "export": true
+        },
+        {
+            "arches_nodeid": "a1c35a1f-63ed-11ec-8044-a72ed671fd8f",
+            "arches_node_name": "Name Type",
+            "file_field_name": "Name Type",
+            "data_type": "concept",
+            "concept_export_value": "label",
+            "export": true
+        }
+    ]
+}
